@@ -1,6 +1,6 @@
 # bx Framework
 
-The `bx` framework is a Nushell-based container image building framework that wraps `buildah` functionality. It is the core engine of the [xy](../README.md) image repository, replacing traditional Dockerfiles with programmable Nushell scripts.
+The `bx` framework is a Nushell-based container image building framework that wraps `buildah` functionality. It is the core engine of the [xy](https://github.com/orbsh/container-xy) image repository, replacing traditional Dockerfiles with programmable Nushell scripts.
 
 ## Build Context Fields
 
